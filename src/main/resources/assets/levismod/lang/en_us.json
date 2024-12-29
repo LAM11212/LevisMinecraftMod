@@ -3,6 +3,10 @@
   "item.levismod.raw_water_ore": "Raw Water Ore",
   "item.levismod.fire_ingot": "Fire Ingot",
   "item.levismod.raw_fire_ore": "Raw Fire Ore",
+  "item.levismod.earth_ingot": "Earth Ingot",
+  "item.levismod.raw_earth_ore": "Raw Earth Ore",
+  "item.levismod.air_ingot": "Air Ingot",
+  "item.levismod.raw_air_ore": "Raw Air Ore",
 
   "itemgroup.elements": "Elements Group"
 }

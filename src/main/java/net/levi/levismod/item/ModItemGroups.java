@@ -20,6 +20,10 @@ public class ModItemGroups {
                         entries.add(ModItems.RAW_WATER_ORE);
                         entries.add(ModItems.FIRE_INGOT);
                         entries.add(ModItems.RAW_FIRE_ORE);
+                        entries.add(ModItems.EARTH_INGOT);
+                        entries.add(ModItems.RAW_EARTH_ORE);
+                        entries.add(ModItems.AIR_INGOT);
+                        entries.add(ModItems.RAW_AIR_ORE);
 
                     }).build());
 

@@ -17,7 +17,12 @@ public class ModItems {
     //FIRE ELEMENT ITEMS
     public static final Item FIRE_INGOT = registerItem("fire_ingot", new Item(new FabricItemSettings()));
     public static final Item RAW_FIRE_ORE = registerItem("raw_fire_ore", new Item(new FabricItemSettings()));
-    //TODO add earth and air elements
+    //EARTH ELEMENT ITEMS
+    public static final Item EARTH_INGOT = registerItem("earth_ingot", new Item(new FabricItemSettings()));
+    public static final Item RAW_EARTH_ORE = registerItem("raw_earth_ore", new Item(new FabricItemSettings()));
+    //AIR ELEMENT ITEMS
+    public static final Item AIR_INGOT = registerItem("air_ingot", new Item(new FabricItemSettings()));
+    public static final Item RAW_AIR_ORE = registerItem("raw_air_ore", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(WATER_INGOT);
