@@ -18,6 +18,8 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.WATER_INGOT)).entries((displayContext, entries) -> {
                         entries.add(ModItems.WATER_INGOT);
                         entries.add(ModItems.RAW_WATER_ORE);
+                        entries.add(ModItems.FIRE_INGOT);
+                        entries.add(ModItems.RAW_FIRE_ORE);
 
                     }).build());
 

@@ -11,12 +11,20 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModItems {
-
+    //WATER ELEMENT ITEMS
     public static final Item WATER_INGOT = registerItem("water_ingot", new Item(new FabricItemSettings()));
     public static final Item RAW_WATER_ORE = registerItem("raw_water_ore", new Item(new FabricItemSettings()));
+    //FIRE ELEMENT ITEMS
+    public static final Item FIRE_INGOT = registerItem("fire_ingot", new Item(new FabricItemSettings()));
+    public static final Item RAW_FIRE_ORE = registerItem("raw_fire_ore", new Item(new FabricItemSettings()));
+    //TODO add earth and air elements
+
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(WATER_INGOT);
         entries.add(RAW_WATER_ORE);
+
+        entries.add(FIRE_INGOT);
+        entries.add(RAW_FIRE_ORE);
     }
 
     private static Item registerItem(String name, Item item) {
