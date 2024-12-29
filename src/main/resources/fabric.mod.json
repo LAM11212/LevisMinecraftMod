@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "levismod",
+	"version": "${version}",
+	"name": "levismod",
+	"description": "just a CS student trying to learn some more complex java coding through minecraft mods",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/levismod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.levi.levismod.Levismod"
+		],
+		"client": [
+			"net.levi.levismod.LevismodClient"
+		],
+		"fabric-datagen": [
+			"net.levi.levismod.LevismodDataGenerator"
+		]
+	},
+	"mixins": [
+		"levismod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
