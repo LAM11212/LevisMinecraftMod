@@ -8,5 +8,10 @@
   "item.levismod.air_ingot": "Air Ingot",
   "item.levismod.raw_air_ore": "Raw Air Ore",
 
+  "block.levismod.water_block": "Block Of Water",
+  "block.levismod.earth_block": "Block Of Earth",
+  "block.levismod.fire_block": "Block Of Fire",
+  "block.levismod.air_block": "Block of Air",
+
   "itemgroup.elements": "Elements Group"
 }

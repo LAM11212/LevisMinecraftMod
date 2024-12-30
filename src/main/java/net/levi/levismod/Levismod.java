@@ -2,6 +2,7 @@ package net.levi.levismod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.levi.levismod.block.ModBlocks;
 import net.levi.levismod.item.ModItemGroups;
 import net.levi.levismod.item.ModItems;
 import org.slf4j.Logger;
@@ -16,5 +17,6 @@ public class Levismod implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

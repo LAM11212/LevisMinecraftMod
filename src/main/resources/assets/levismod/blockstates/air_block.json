@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "levismod:block/air_block"
+    }
+  }
+}
