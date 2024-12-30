@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "levismod:air_block"
+    }
+  ],
+  "result": {
+    "item": "levismod:air_ingot",
+    "count": 9
+  }
+}

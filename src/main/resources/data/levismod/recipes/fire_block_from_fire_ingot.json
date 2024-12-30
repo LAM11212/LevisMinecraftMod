@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "levismod:fire_ingot"
+    }
+  },
+  "result": {
+    "item": "levismod:fire_block"
+  }
+}

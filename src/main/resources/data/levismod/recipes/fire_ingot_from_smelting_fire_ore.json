@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "water_ingot",
+  "ingredient": {
+    "item": "levismod:raw_fire_ore"
+  },
+  "result": "levismod:fire_ingot"
+}

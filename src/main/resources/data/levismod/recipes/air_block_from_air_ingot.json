@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "levismod:air_ingot"
+    }
+  },
+  "result": {
+    "item": "levismod:air_block"
+  }
+}

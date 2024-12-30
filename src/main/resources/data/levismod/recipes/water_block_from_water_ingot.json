@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "levismod:water_ingot"
+    }
+  },
+  "result": {
+    "item": "levismod:water_block"
+  }
+}

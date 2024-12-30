@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "raw_water_ore",
+  "ingredient": {
+    "item": "levismod:raw_earth_ore"
+  },
+  "result": "levismod:earth_ingot"
+}

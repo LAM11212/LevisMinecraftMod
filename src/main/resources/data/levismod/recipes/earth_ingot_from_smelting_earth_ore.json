@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "water_ingot",
+  "ingredient": {
+    "item": "levismod:raw_earth_ore"
+  },
+  "result": "levismod:earth_ingot"
+}

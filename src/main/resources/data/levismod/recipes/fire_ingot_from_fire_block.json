@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "levismod:fire_block"
+    }
+  ],
+  "result": {
+    "item": "levismod:fire_ingot",
+    "count": 9
+  }
+}

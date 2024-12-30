@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "levismod:earth_ingot"
+    }
+  },
+  "result": {
+    "item": "levismod:earth_block"
+  }
+}
