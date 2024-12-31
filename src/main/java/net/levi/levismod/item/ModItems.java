@@ -30,6 +30,12 @@ public class ModItems {
 
         entries.add(FIRE_INGOT);
         entries.add(RAW_FIRE_ORE);
+
+        entries.add(EARTH_INGOT);
+        entries.add(RAW_EARTH_ORE);
+
+        entries.add(AIR_INGOT);
+        entries.add(RAW_AIR_ORE);
     }
 
     private static Item registerItem(String name, Item item) {
