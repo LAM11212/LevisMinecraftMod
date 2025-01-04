@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "levismod:raw_water_block",
+    "levismod:water_block",
+    "levismod:raw_earth_block",
+    "levismod:earth_block",
+    "levismod:raw_fire_block",
+    "levismod:fire_block",
+    "levismod:raw_air_block",
+    "levismod:air_block"
+  ]
+}

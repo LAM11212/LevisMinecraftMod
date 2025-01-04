@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "levismod:raw_water_block",
+    "levismod:water_block",
+    "levismod:raw_fire_block",
+    "levismod:fire_block"
+  ]
+}

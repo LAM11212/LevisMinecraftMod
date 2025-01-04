@@ -12,6 +12,10 @@
   "block.levismod.earth_block": "Block Of Earth",
   "block.levismod.fire_block": "Block Of Fire",
   "block.levismod.air_block": "Block of Air",
+  "block.levismod.raw_water_block": "Raw Water Block",
+  "block.levismod.raw_earth_block": "Raw Earth Block",
+  "block.levismod.raw_fire_block": "Raw Fire Block",
+  "block.levismod.raw_air_block": "Raw Air Block",
 
   "itemgroup.elements": "Elements Group"
 }
