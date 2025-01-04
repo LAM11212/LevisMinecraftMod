@@ -32,6 +32,10 @@ public class ModItemGroups {
                         entries.add(ModBlocks.EARTH_BLOCK);
                         entries.add(ModBlocks.FIRE_BLOCK);
                         entries.add(ModBlocks.AIR_BLOCK);
+                        entries.add(ModBlocks.RAW_WATER_BLOCK);
+                        entries.add(ModBlocks.RAW_EARTH_BLOCK);
+                        entries.add(ModBlocks.RAW_FIRE_BLOCK);
+                        entries.add(ModBlocks.RAW_AIR_BLOCK);
                     }).build());
 
     public static void registerItemGroups() {

@@ -4,6 +4,7 @@ import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.levi.levismod.Levismod;
+import net.levi.levismod.block.ModBlocks;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
 import net.minecraft.registry.Registries;
@@ -36,6 +37,7 @@ public class ModItems {
 
         entries.add(AIR_INGOT);
         entries.add(RAW_AIR_ORE);
+
     }
 
     private static Item registerItem(String name, Item item) {
