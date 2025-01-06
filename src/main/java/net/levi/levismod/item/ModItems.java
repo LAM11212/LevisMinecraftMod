@@ -25,6 +25,9 @@ public class ModItems {
     public static final Item AIR_INGOT = registerItem("air_ingot", new Item(new FabricItemSettings()));
     public static final Item RAW_AIR_ORE = registerItem("raw_air_ore", new Item(new FabricItemSettings()));
 
+    //FOOD ITEMS
+    public static final Item RAMEN = registerItem("ramen", new Item(new FabricItemSettings().food(ModFoodComponents.RAMEN)));
+
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(WATER_INGOT);
         entries.add(RAW_WATER_ORE);

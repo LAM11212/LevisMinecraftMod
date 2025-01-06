@@ -5,6 +5,7 @@ import net.fabricmc.api.ModInitializer;
 import net.levi.levismod.block.ModBlocks;
 import net.levi.levismod.item.ModItemGroups;
 import net.levi.levismod.item.ModItems;
+import net.levi.levismod.item.ModPotions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -18,5 +19,6 @@ public class Levismod implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModPotions.registerPotions();
 	}
 }

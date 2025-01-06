@@ -36,6 +36,9 @@ public class ModItemGroups {
                         entries.add(ModBlocks.RAW_EARTH_BLOCK);
                         entries.add(ModBlocks.RAW_FIRE_BLOCK);
                         entries.add(ModBlocks.RAW_AIR_BLOCK);
+
+                        //FOOD ITEMS
+                        entries.add(ModItems.RAMEN);
                     }).build());
 
     public static void registerItemGroups() {

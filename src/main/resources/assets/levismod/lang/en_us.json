@@ -17,5 +17,9 @@
   "block.levismod.raw_fire_block": "Raw Fire Block",
   "block.levismod.raw_air_block": "Raw Air Block",
 
+  "item.minecraft.potion.effect.sake": "Sake",
+  "item.minecraft.splash_potion.effect.sake": "Sake Bomb",
+  "item.minecraft.lingering_potion.effect.sake": "Lingering Sake",
+
   "itemgroup.elements": "Elements Group"
 }
