@@ -16,7 +16,7 @@ public class ModFoodComponents {
 
     public static final FoodComponent JOINT = new FoodComponent.Builder().hunger(5).saturationModifier(.50f)
             .statusEffect(new StatusEffectInstance(StatusEffects.SPEED, 2000, 2), 1.0f)
-            .statusEffect(new StatusEffectInstance(StatusEffects.STRENGTH, 2500, 3), 1.0f)
+            .statusEffect(new StatusEffectInstance(StatusEffects.STRENGTH, 2000, 3), 1.0f)
             .statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 1000), 1.0f)
             .statusEffect(new StatusEffectInstance(StatusEffects.SLOW_FALLING, 500), 1.0f).build();
 }
