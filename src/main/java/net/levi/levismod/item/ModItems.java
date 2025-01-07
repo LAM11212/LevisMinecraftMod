@@ -27,6 +27,8 @@ public class ModItems {
 
     //FOOD ITEMS
     public static final Item RAMEN = registerItem("ramen", new Item(new FabricItemSettings().food(ModFoodComponents.RAMEN)));
+    public static final Item WEED = registerItem("weed", new Item(new FabricItemSettings().food(ModFoodComponents.WEED)));
+    public static final Item JOINT = registerItem("joint", new Item(new FabricItemSettings().food(ModFoodComponents.JOINT)));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(WATER_INGOT);

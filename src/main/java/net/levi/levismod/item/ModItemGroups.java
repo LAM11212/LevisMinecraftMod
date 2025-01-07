@@ -39,6 +39,8 @@ public class ModItemGroups {
 
                         //FOOD ITEMS
                         entries.add(ModItems.RAMEN);
+                        entries.add(ModItems.WEED);
+                        entries.add(ModItems.JOINT);
                     }).build());
 
     public static void registerItemGroups() {
